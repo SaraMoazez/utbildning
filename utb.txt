@@ -1,3 +1,5 @@
 if (x>y){
 print"Hejhej"
 }
+
+console.log(e)
