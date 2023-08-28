@@ -1,0 +1,143 @@
+*   [33mcommit 59c067f7834d36f2eecb657c31815a206c80d2ff[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[31m|[m[32m\[m  Merge: 2c4ea0e c916aa4
+[31m|[m [32m|[m Author: augustmillwood <143172833+augustmillwood@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Mon Aug 28 14:56:23 2023 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge pull request #2 from SaraMoazez/newerandcoolerbranch
+[31m|[m [32m|[m     
+[31m|[m [32m|[m     added cool file!
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit c916aa4d6d65042745785f9e7763e33e80ec2432[m
+[31m|[m [32m|[m Author: augustmillwood <august.millwood@konsult.folksam.se>
+[31m|[m [32m|[m Date:   Mon Aug 28 14:53:15 2023 +0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     added cool file
+[31m|[m [32m|[m   
+* [32m|[m   [33mcommit 2c4ea0e754f054c6d1ca8e4f4ebdae735e45abd1[m
+[33m|[m[34m\[m [32m\[m  Merge: a58c0c9 1b6f710
+[33m|[m [34m|[m [32m|[m Author: vichultfolksam <143172697+vichultfolksam@users.noreply.github.com>
+[33m|[m [34m|[m [32m|[m Date:   Mon Aug 28 14:16:29 2023 +0200
+[33m|[m [34m|[m [32m|[m 
+[33m|[m [34m|[m [32m|[m     Merge pull request #1 from SaraMoazez/sarasbranch
+[33m|[m [34m|[m [32m|[m     
+[33m|[m [34m|[m [32m|[m     testest
+[33m|[m [34m|[m [32m|[m 
+[33m|[m * [32m|[m [33mcommit 1b6f710aaaa4c746388bcc2690477541814419cc[m
+[33m|[m [32m|[m[32m/[m  Author: SaraMoazez <sara.moazezz@gmail.com>
+[33m|[m [32m|[m   Date:   Mon Aug 28 14:12:59 2023 +0200
+[33m|[m [32m|[m   
+[33m|[m [32m|[m       testest
+[33m|[m [32m|[m 
+* [32m|[m [33mcommit a58c0c93fa7170e10b02ffe02c4567bc5b0f7c87[m
+[34m|[m [32m|[m Author: augustmillwood <august.millwood@konsult.folksam.se>
+[34m|[m [32m|[m Date:   Mon Aug 28 14:13:33 2023 +0200
+[34m|[m [32m|[m 
+[34m|[m [32m|[m     förstörde test2.txt
+[34m|[m [32m|[m 
+* [32m|[m [33mcommit 07a2d1108714b21fdf8bf0964ea768c134d6c027[m
+[35m|[m[32m\[m[32m|[m Merge: 30afba9 5b79a03
+[35m|[m [32m|[m Author: Abdelhamid7said <abdelhamid.said@konsult.folksam.se>
+[35m|[m [32m|[m Date:   Mon Aug 28 14:09:54 2023 +0200
+[35m|[m [32m|[m 
+[35m|[m [32m|[m     Merge branch 'main' of https://github.com/SaraMoazez/utbildning
+[35m|[m [32m|[m 
+[35m|[m * [33mcommit 5b79a03c0a0bef646739ee45cdfc9697f10a11e5[m
+[35m|[m [36m|[m Author: augustmillwood <august.millwood@konsult.folksam.se>
+[35m|[m [36m|[m Date:   Mon Aug 28 14:03:27 2023 +0200
+[35m|[m [36m|[m 
+[35m|[m [36m|[m     heyo added
+[35m|[m [36m|[m 
+* [36m|[m [33mcommit 30afba9f85c1382ace9e23d9fc20365086955e8a[m
+[36m|[m[36m/[m  Author: Abdelhamid7said <abdelhamid.said@konsult.folksam.se>
+[36m|[m   Date:   Mon Aug 28 14:08:04 2023 +0200
+[36m|[m   
+[36m|[m       ändrard
+[36m|[m   
+*   [33mcommit e395879a9e44a859c3207f5c44f3ce4446d58073[m
+[1;31m|[m[1;32m\[m  Merge: c366e66 5decf31
+[1;31m|[m [1;32m|[m Author: Abdelhamid7said <abdelhamid.said@konsult.folksam.se>
+[1;31m|[m [1;32m|[m Date:   Mon Aug 28 14:02:00 2023 +0200
+[1;31m|[m [1;32m|[m 
+[1;31m|[m [1;32m|[m     Merge branch 'main' of https://github.com/SaraMoazez/utbildning
+[1;31m|[m [1;32m|[m   
+[1;31m|[m *   [33mcommit 5decf318b2a01d804d0f39b27344737a12fba890[m
+[1;31m|[m [1;33m|[m[1;34m\[m  Merge: b199f76 3763dc6
+[1;31m|[m [1;33m|[m [1;34m|[m Author: SaraMoazez <sara.moazezz@gmail.com>
+[1;31m|[m [1;33m|[m [1;34m|[m Date:   Mon Aug 28 14:01:16 2023 +0200
+[1;31m|[m [1;33m|[m [1;34m|[m 
+[1;31m|[m [1;33m|[m [1;34m|[m     fixed merge conflict
+[1;31m|[m [1;33m|[m [1;34m|[m 
+[1;31m|[m [1;33m|[m * [33mcommit 3763dc60819d0c5bb13ed9a46224c9e5c1086a84[m
+[1;31m|[m [1;33m|[m [1;34m|[m Author: Victor Hultqvist <victor.hultqvist@konsult.folksam.se>
+[1;31m|[m [1;33m|[m [1;34m|[m Date:   Mon Aug 28 13:59:25 2023 +0200
+[1;31m|[m [1;33m|[m [1;34m|[m 
+[1;31m|[m [1;33m|[m [1;34m|[m     ändrade i test
+[1;31m|[m [1;33m|[m [1;34m|[m 
+[1;31m|[m * [1;34m|[m [33mcommit b199f76ac84f4a502224b94a153a0981af758432[m
+[1;31m|[m [1;34m|[m[1;34m/[m  Author: SaraMoazez <sara.moazezz@gmail.com>
+[1;31m|[m [1;34m|[m   Date:   Mon Aug 28 13:59:28 2023 +0200
+[1;31m|[m [1;34m|[m   
+[1;31m|[m [1;34m|[m       ändrat i test
+[1;31m|[m [1;34m|[m   
+[1;31m|[m *   [33mcommit efe9c4e6ebfe809396b36437bd044ecf40bab694[m
+[1;31m|[m [1;35m|[m[1;36m\[m  Merge: de448d3 1bc2940
+[1;31m|[m [1;35m|[m [1;36m|[m Author: Victor Hultqvist <victor.hultqvist@konsult.folksam.se>
+[1;31m|[m [1;35m|[m [1;36m|[m Date:   Mon Aug 28 13:57:09 2023 +0200
+[1;31m|[m [1;35m|[m [1;36m|[m 
+[1;31m|[m [1;35m|[m [1;36m|[m     Merge branch 'main' of https://github.com/SaraMoazez/utbildning
+[1;31m|[m [1;35m|[m [1;36m|[m   
+[1;31m|[m [1;35m|[m *   [33mcommit 1bc29409c72156e0b5e9bd58ea267b572c364ab8[m
+[1;31m|[m [1;35m|[m [31m|[m[32m\[m  Merge: 970b15f a33ee00
+[1;31m|[m [1;35m|[m [31m|[m [32m|[m Author: augustmillwood <august.millwood@konsult.folksam.se>
+[1;31m|[m [1;35m|[m [31m|[m [32m|[m Date:   Mon Aug 28 13:55:34 2023 +0200
+[1;31m|[m [1;35m|[m [31m|[m [32m|[m 
+[1;31m|[m [1;35m|[m [31m|[m [32m|[m     Merge branch 'main' of https://github.com/SaraMoazez/utbildning
+[1;31m|[m [1;35m|[m [31m|[m [32m|[m 
+[1;31m|[m [1;35m|[m * [32m|[m [33mcommit 970b15fa71a262d7faa55c0699a280f3561f313b[m
+[1;31m|[m [1;35m|[m [32m|[m [32m|[m Author: August Millwood <august.millwood@extern.folksam.se>
+[1;31m|[m [1;35m|[m [32m|[m [32m|[m Date:   Mon Aug 28 13:49:10 2023 +0200
+[1;31m|[m [1;35m|[m [32m|[m [32m|[m 
+[1;31m|[m [1;35m|[m [32m|[m [32m|[m     added test2
+[1;31m|[m [1;35m|[m [32m|[m [32m|[m 
+[1;31m|[m * [32m|[m [32m|[m [33mcommit de448d3c858ba6093bfb0842103bac60fd179f73[m
+[1;31m|[m [32m|[m [32m|[m[32m/[m  Author: Victor Hultqvist <victor.hultqvist@konsult.folksam.se>
+[1;31m|[m [32m|[m[32m/[m[32m|[m   Date:   Mon Aug 28 13:56:53 2023 +0200
+[1;31m|[m [32m|[m [32m|[m   
+[1;31m|[m [32m|[m [32m|[m       Ändrade i utb fil
+[1;31m|[m [32m|[m [32m|[m 
+[1;31m|[m * [32m|[m [33mcommit a33ee00acd3522dced4b1060016ba66d8dd4d50d[m
+[1;31m|[m [32m|[m[32m/[m  Author: Victor Hultqvist <victor.hultqvist@konsult.folksam.se>
+[1;31m|[m [32m|[m   Date:   Mon Aug 28 13:48:50 2023 +0200
+[1;31m|[m [32m|[m   
+[1;31m|[m [32m|[m       la till utb.txt
+[1;31m|[m [32m|[m   
+[1;31m|[m *   [33mcommit 27303c03b8c1a5b4df831abb45796651eb411ffe[m
+[1;31m|[m [33m|[m[34m\[m  Merge: 3626e9b 0702abc
+[1;31m|[m [33m|[m [34m|[m Author: Victor Hultqvist <victor.hultqvist@konsult.folksam.se>
+[1;31m|[m [33m|[m [34m|[m Date:   Mon Aug 28 13:47:24 2023 +0200
+[1;31m|[m [33m|[m [34m|[m 
+[1;31m|[m [33m|[m [34m|[m     Merge branch 'main' of https://github.com/SaraMoazez/utbildning
+[1;31m|[m [33m|[m [34m|[m 
+[1;31m|[m [33m|[m * [33mcommit 0702abcbf219a45bfb93c0289f33e2684214fb43[m
+[1;31m|[m [33m|[m [34m|[m Author: SaraMoazez <sara.moazezz@gmail.com>
+[1;31m|[m [33m|[m [34m|[m Date:   Mon Aug 28 13:44:15 2023 +0200
+[1;31m|[m [33m|[m [34m|[m 
+[1;31m|[m [33m|[m [34m|[m     test
+[1;31m|[m [33m|[m [34m|[m 
+[1;31m|[m * [34m|[m [33mcommit 3626e9bf9b161af11e4abd91723c72d17a256644[m
+[1;31m|[m [34m|[m[34m/[m  Author: Victor Hultqvist <victor.hultqvist@konsult.folksam.se>
+[1;31m|[m [34m|[m   Date:   Mon Aug 28 13:40:25 2023 +0200
+[1;31m|[m [34m|[m   
+[1;31m|[m [34m|[m       La till fil
+[1;31m|[m [34m|[m 
+* [34m|[m [33mcommit c366e6619ceb8934a073d4078eabb54a7bc4a343[m
+[34m|[m[34m/[m  Author: Abdelhamid7said <abdelhamid.said@konsult.folksam.se>
+[34m|[m   Date:   Mon Aug 28 14:00:32 2023 +0200
+[34m|[m   
+[34m|[m       ändring
+[34m|[m 
+* [33mcommit 2afc3b1fc952c965a1182e899c778be023104494[m
+  Author: Sara Moazez Gharebagh <62360527+SaraMoazez@users.noreply.github.com>
+  Date:   Mon Aug 28 13:36:25 2023 +0200
+  
+      Initial commit
